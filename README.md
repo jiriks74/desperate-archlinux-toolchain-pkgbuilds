@@ -10,6 +10,7 @@ Well, it's mainly for only my use and I simply do not want to bother. I'm not th
 # How to compile the toolchain myself?
 ## Toolchain build order: 
 `linux-api-header->glibc->binutils->gcc->binutils->glibc`
+
 Go to a directory according to the order above and run this command:
 `makepkg -si --skipinteg`
 
