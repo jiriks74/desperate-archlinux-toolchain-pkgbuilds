@@ -27,7 +27,7 @@ source=(https://ftp.gnu.org/gnu/glibc/glibc-$pkgver.tar.xz{,.sig}
         0003-nptl-Do-not-build-nptl-tst-pthread-gdb-attach-as-PIE.patch)
 validpgpkeys=(7273542B39962DF7B299931416792B4EA25340F8 # Carlos O'Donell
               BC7C7372637EC10C57D7AA6579C43DFBF1CF2187) # Siddhesh Poyarekar
-md5sums=('390bbd889c7e8e8a7041564cb6b27cca'
+md5sums=('dd571c67d85d89d7f60b854a4e207423'
          'SKIP'
          '07ac979b6ab5eeb778d55f041529d623'
          '476e9113489f93b348b21e144b6a8fcf'
