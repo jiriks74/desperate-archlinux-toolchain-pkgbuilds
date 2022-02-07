@@ -1,5 +1,7 @@
 linux-*.tar.sign
 linux-*.tar.xz
 linux-api-headers-*.pkg.tar.zst
+glibc-*.tar.xz
+
 pkg/
 src/
