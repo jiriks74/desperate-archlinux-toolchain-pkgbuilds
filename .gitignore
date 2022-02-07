@@ -1,7 +1,18 @@
-linux-*.tar.sign
-linux-*.tar.xz
-linux-api-headers-*.pkg.tar.zst
-glibc-*.tar.xz
+linux-api-headers/linux-*.tar.xz
+linux-api-headers/linux-*.tar.sign
+
+gcc/gcc-*.tar.xz
+gcc/gcc-*.tar.xz.sig
+gcc/isl-*.tar.xz
+
+glibc/glibc-*.tar.xz
+glibc/glibc-*.tar.xz.sig
+glibc/glibc-*.pkg.tar.zst
+glibc/lib32-glibc-*.pkg.tar.zst
+
+binutils/binutils-*.tar.xz
+binutils/binutils-*.tar.xz.sig
+binutils/binutils-*.pkg.tar.zst
 
 pkg/
 src/
