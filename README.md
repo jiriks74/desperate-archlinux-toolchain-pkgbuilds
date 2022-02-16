@@ -1,3 +1,6 @@
+# ARCHIVED
+As official toolchain was added to `testing` repository, I'm archiving this repository
+
 # desperate-archlinux-toolchain-pkgbuilds
 Desperate times need desperate solutions - unsigned official PKGBUILDS hotfixed to be able to compile. 
 
